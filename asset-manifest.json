@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/D3Chart/static/css/main.6259646b.chunk.css",
+    "main.js": "/D3Chart/static/js/main.4061e8ed.chunk.js",
+    "main.js.map": "/D3Chart/static/js/main.4061e8ed.chunk.js.map",
+    "runtime-main.js": "/D3Chart/static/js/runtime-main.f48c6999.js",
+    "runtime-main.js.map": "/D3Chart/static/js/runtime-main.f48c6999.js.map",
+    "static/css/2.ff480518.chunk.css": "/D3Chart/static/css/2.ff480518.chunk.css",
+    "static/js/2.1dd81509.chunk.js": "/D3Chart/static/js/2.1dd81509.chunk.js",
+    "static/js/2.1dd81509.chunk.js.map": "/D3Chart/static/js/2.1dd81509.chunk.js.map",
+    "index.html": "/D3Chart/index.html",
+    "precache-manifest.8e3a18c0307138692fbdc35ca00e24b6.js": "/D3Chart/precache-manifest.8e3a18c0307138692fbdc35ca00e24b6.js",
+    "service-worker.js": "/D3Chart/service-worker.js",
+    "static/css/2.ff480518.chunk.css.map": "/D3Chart/static/css/2.ff480518.chunk.css.map",
+    "static/css/main.6259646b.chunk.css.map": "/D3Chart/static/css/main.6259646b.chunk.css.map",
+    "static/js/2.1dd81509.chunk.js.LICENSE.txt": "/D3Chart/static/js/2.1dd81509.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/D3Chart/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f48c6999.js",
+    "static/css/2.ff480518.chunk.css",
+    "static/js/2.1dd81509.chunk.js",
+    "static/css/main.6259646b.chunk.css",
+    "static/js/main.4061e8ed.chunk.js"
+  ]
+}
