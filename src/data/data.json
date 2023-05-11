@@ -1,0 +1,118 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "user1",
+      "gender": "male",
+      "type": "parent",
+      "collapsed": true
+    },
+    {
+      "id": 2,
+      "name": "user2",
+      "gender": "female",
+      "type": "parent",
+      "collapsed": true
+    },
+    {
+      "id": 3,
+      "name": "user3",
+      "gender": "female",
+      "type": "child"
+    },
+    {
+      "id": 4,
+      "name": "user4",
+      "gender": "male",
+      "type": "child"
+    },
+    {
+      "id": 5,
+      "name": "user5",
+      "gender": "female",
+      "type": "child"
+    },
+    {
+      "id": 6,
+      "name": "user6",
+      "gender": "female",
+      "type": "child"
+    },
+    {
+      "id": 7,
+      "name": "user7",
+      "gender": "male",
+      "type": "child"
+    },
+    {
+      "id": 8,
+      "name": "user8",
+      "gender": "female",
+      "type": "child"
+    },
+    {
+      "id": 9,
+      "name": "user9",
+      "gender": "female",
+      "type": "child"
+    },
+    {
+      "id": 10,
+      "name": "user10",
+      "gender": "female",
+      "type": "child"
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "collapsed": true
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "collapsed": true
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "collapsed": true
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "collapsed": true
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "collapsed": true
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "collapsed": true
+    },
+    {
+      "source": 8,
+      "target": 3,
+      "collapsed": true
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "collapsed": true
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "collapsed": true
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "collapsed": true
+    }
+  ]
+}
